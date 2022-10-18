@@ -1,0 +1,1 @@
+Mr Eric wants to create a Bank information system, there’s 3 types of account, platinum, gold,and Silver. Each accounts has 3 different transaction limit and interest. Help Eric to build the system.
